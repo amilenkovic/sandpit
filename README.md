@@ -12,3 +12,6 @@ Ovako izgleda lista:
 - list
 - novi element
 
+Ovako izgleda lista sa brojevima:
+1. Prvi primer
+2. Drugi primer
