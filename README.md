@@ -25,3 +25,9 @@ Ovako se kreira [link to my gitHub](https://amilenkovic.github.io/)
 
 Ovo je inline code `var example = true` 
 
+Ovo je tabela:
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
