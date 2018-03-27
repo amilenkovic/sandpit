@@ -1,7 +1,7 @@
-# sandpit
+# Sandpit
 Playground place for @amilenkovic
 ## Podnaslov
-Neki novi tekst
+Sasvim obican tekst
 
 Novi **crni** i _Italic_ tekst
 
